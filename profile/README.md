@@ -1,12 +1,7 @@
-## Hi there 👋
+## Hi👋 這裡是 臺灣網際網路技術推廣組織 的官方 GitHub
 
-<!--
+> 讓世界看見台灣的資訊力
 
-**Here are some ideas to get you started:**
+我們打造出各種開放原始碼系統，同時推廣 JavaScript 程式語言；
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+並致力提供豐富的學習和就業資源，普及大眾資訊素養及資訊能力！
